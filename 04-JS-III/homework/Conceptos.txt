@@ -1,0 +1,4 @@
+Definiciones:
+
+    Array:  es una estructura de datos que nos permite almacenar datos, independientemente de su tipo, uno al lado de otro, cada elemento
+            tiene un indice, el primer indice es el 0 y el ultimo es la longitud del arreglo - 1 
