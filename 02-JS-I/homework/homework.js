@@ -130,6 +130,7 @@ function redondearNumero(num) {
   if (num % 1 >= 0.5){
     toReturn++;
   }
+  
   return toReturn;
 }
 
@@ -140,12 +141,14 @@ function redondearHaciaArriba(num) {
   if (num % 1 != 0){
     toReturn++;
   }
+
   return toReturn;
 }
 
 function numeroRandom() {
   //Generar un número al azar entre 0 y 1 y devolverlo
   //Pista: investigá qué hace el método Math.random()
+
   return Math.random();
 }
 
@@ -162,6 +165,7 @@ function esPositivo(numero) {
   else if(toReturn && numero < 0){
     toReturn = "Es negativo";
   }
+
   return (toReturn);
 }
 
@@ -170,6 +174,7 @@ function agregarSimboloExclamacion(str) {
   // Ejemplo: "hello world" pasaría a ser "hello world!"
   // Tu código:
   var toReturn = str + "!";
+
   return toReturn;
 }
 
@@ -178,6 +183,7 @@ function combinarNombres(nombre, apellido) {
   // Ejemplo: "Soy", "Henry" -> "Soy Henry"
   // Tu código:
   var toReturn = nombre + " " + apellido;
+
   return toReturn;
 }
 
@@ -230,6 +236,7 @@ function esVocal(letra){
   }else{
     toReturn = "Dato incorrecto"; 
   }
+
   return toReturn;
 }
 

@@ -1,0 +1,18 @@
+Definiciones:
+
+    for: es una estructura que nos sirve para repetir un bloque de código n veces
+
+    &&: es un operador binario, es una conjunción con cortocircuito, es decir, toma dos valores y los compara, el resultado
+        de esta comparación va a ser FALSE si alguno de los dos elementos que comparamos es FALSE, y para que el resultado sea TRUE 
+        ambos elementos a comparar deberían de ser TRUE.
+        El cortocircuito significa que si el primer elemento a comprar es FALSE, no se evalua el segundo ya que es irrelevante
+        para el resultado de la comparación.
+
+    ||: es un operador binario, es una disyunción con cortocircuito, es decir, toma dos valores y los compara, el resultado
+        de esta comparación va a ser TRUE si alguno de los dos elementos que comparamos es TRUE, y para que el resultado sea False 
+        ambos elementos a comparar deberían de ser FALSE.
+        El cortocircuito significa que si el primer elemento a comprar es TRUE, no se evalua el segundo ya que es irrelevante
+        para el resultado de la comparación.
+
+    !:  es un operador que nos permite preguntar lo contrario a lo que se expresa (NOT) y en booleanos para hacer que algo TRUE sea
+        FALSE o viceversa

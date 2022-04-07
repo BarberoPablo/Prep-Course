@@ -1,0 +1,18 @@
+Definiciones:
+
+    Variables: sirve para nombrar a un valor para luego poder reusarlo o actualizarlos.
+
+    Strings: es una cadena de caracteres.
+
+    Funciones: es un conjunto de instrucciones que realizan una tarea, a estas instrucciones se le asignan un nombre para luego
+               poder reusarlas y ahorrar codigo, pueden recibir argumentos para poder realizar dichas tareas.
+               Una funcion que no devuelve un valor, se llama procedimiento y las que sí lo hacen se llaman Funciones, las cuales
+               devuelven valores usando la palabra "return".
+               Los argumentos son lo mismo que los parámetros.
+
+    if: es una estructura de codigo que a partir de una condición booleana se ejecute cierto bloque de código si esta condición se cumple
+        o se ejecute otro bloque de código en caso contrario.
+
+    TRUE: es una condicion booleana que hace referencia a que un valor es verdadero
+    
+    FALSE: es una condicion booleana que hace referencia a que un valor es falso
