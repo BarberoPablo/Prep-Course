@@ -1,0 +1,13 @@
+Definiciones:
+
+    Objetos: cada objeto posee un grupo de propiedades con distintos nombres.
+
+    Propiedades: son asociaciones entre las claves y los valores.
+
+    Métodos: son las funciones de los objetos, todo aquello que pueden hacer.
+
+    Bucle `for…in`: nos sirve para recorrer todos los pares clave-valor de un objeto
+
+    Notación de puntos vs notación de corchetes: la notacion de corchetes nos permite hacer mas cosas, ambas notaciones retornan lo mismo.
+    
+
