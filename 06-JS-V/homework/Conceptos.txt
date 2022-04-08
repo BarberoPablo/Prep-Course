@@ -1,0 +1,8 @@
+Definiciones:
+
+    prototype:  nos muestra su clase, de donde vienen "__proto__", los objetos tienen propiedades, cuando busca una propiedad
+                y no esta en el objeto, busca la propiedad en el prototipo, prototype es la clase padre de nuestro objeto,
+                Object es la clase alfa, no hay otra por encima de esta.
+    
+    constructores:  nos permiten crear objetos con ciertas caracteristicas como atributos y metodos, nos sirve para no repetir codigo 
+                    y tener todo mejor organizado.
