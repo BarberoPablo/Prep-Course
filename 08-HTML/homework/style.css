@@ -1,4 +1,14 @@
-h1 {color:blanchedalmond}
-img {width : 400px}
-thirdDiv {height:600px; width:500; background-color : powderblue; padding: "50"; border: 3px inset black}
-spanId {font-size : 18px; margin: 50px}
+h1 {
+    color: rgba(245, 151, 11, 0.945)
+}
+
+img {
+    width: 400px
+}
+
+body {
+    text-align: center;
+    margin: auto;
+    font-family: Cursive;
+    background-image: url("https://img.freepik.com/vector-gratis/desayuno-patron-alimentos-bebidas-aisladas-sobre-fondo-crema_71374-247.jpg");
+}
